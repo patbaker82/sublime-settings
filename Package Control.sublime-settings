@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"GoOracle",
+		"GoSublime",
+		"Handlebars",
+		"Markdown Preview",
+		"Package Control",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes"
+	]
+}
