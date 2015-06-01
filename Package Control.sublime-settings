@@ -5,13 +5,16 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"DashDoc",
 		"Ember CLI Snippets",
 		"GitGutter",
 		"GoOracle",
 		"GoSublime",
 		"Handlebars",
 		"JavaScriptNext - ES6 Syntax",
+		"Markdown Extended",
 		"Markdown Preview",
+		"Monokai Extended",
 		"Package Control",
 		"Theme - Spacegray"
 	]
