@@ -1,4 +1,8 @@
 {
+	"9o.hist./Users/pbaker/Desktop":
+	[
+		"run"
+	],
 	"9o.hist./Users/pbaker/GoLang/src/hello":
 	[
 		"run",
@@ -13,6 +17,10 @@
 		"build",
 		"go list",
 		"go run"
+	],
+	"9o.hist./Users/pbaker/code.1.1":
+	[
+		"run"
 	],
 	"ann": "a14.02.25-1",
 	"install_version": "r14.12.06-1",

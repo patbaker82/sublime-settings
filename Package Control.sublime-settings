@@ -12,10 +12,12 @@
 		"GoSublime",
 		"Handlebars",
 		"JavaScriptNext - ES6 Syntax",
+		"LESS",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Monokai Extended",
 		"Package Control",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"TodoReview"
 	]
 }
