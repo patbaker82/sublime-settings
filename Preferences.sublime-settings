@@ -1,4 +1,10 @@
 {
+	"added_words":
+	[
+		"Microservices",
+		"microservices",
+		"microservice"
+	],
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Input Mono",
@@ -7,8 +13,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"rulers":
 	[
